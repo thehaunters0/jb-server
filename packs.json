@@ -4536,8 +4536,8 @@
 					"subtitles": true,
 					"type": "VERSUS",
 					"translation": "ENGLISH",
-					"tagline": "",
-					"small_description": "",
+					"tagline": "Will you survive this trivia?",
+					"small_description": "Will you survive this trivia?",
 					"description": "",
 					"images": ["https://thehaunters0.github.io/jb-server/tmp3/tmp3_1.png", "https://thehaunters0.github.io/jb-server/tmp3/tmp3_2.png", "https://thehaunters0.github.io/jb-server/tmp3/tmp3_3.png", "https://thehaunters0.github.io/jb-server/tmp3/tmp3_4.png"],
 					"tags": []
