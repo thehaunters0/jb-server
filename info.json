@@ -7,7 +7,7 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://thehaunters0.github.io/jb-server/",
+            "api":"https://thehaunters0.github.io/jb-server",
             "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
         }
     ],
