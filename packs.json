@@ -4522,7 +4522,7 @@
 			{
 				"id": "tmp3",
 				"name": "Trivia Murder Party 3",
-				"background": "https://thehaunters0.github.io/jb-server/tmp3/tmp3bg.jpg",
+				"background": "https://thehaunters0.github.io/jb-server/tmp3/tmp3bg1.jpg",
 				"path": "",
 				"game_info": {
 					"players": { "min": 1, "max": 8 },
@@ -4545,8 +4545,8 @@
 				"patchs": []
 			}
 		],
-		"icon": "uyw.ico",
-		"background": "backgrounds/uyw.jpg"
+		"icon": "https://thehaunters0.github.io/jb-server/tmp3/tmp3icon.ico",
+		"background": "https://thehaunters0.github.io/jb-server/tmp3/tmp3packbg.jpg"
 	},
     {
         "id":"jpstarter",
