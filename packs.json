@@ -4522,7 +4522,7 @@
 			{
 				"id": "tmp3",
 				"name": "Trivia Murder Party 3",
-				"background": "game_backgrounds/UseYourWords.webp",
+				"background": "https://thehaunters0.github.io/jb-server/tmp3/tmp3bg.jpg",
 				"path": "",
 				"game_info": {
 					"players": { "min": 1, "max": 8 },
